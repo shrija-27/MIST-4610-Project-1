@@ -60,7 +60,7 @@ Lastly, there is a Club entity created that represents the club associated with 
 # SQL Queries
 
 **TP_Q1**: Lists all the players whose position are strikers and defense
-<img width="1045" alt="Screenshot 2023-11-02 at 12 50 14 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/5647ba11-26b8-4087-b3d3-220e4436f40a">
+<img width="1110" alt="Screenshot 2023-11-02 at 5 38 25 PM" src="https://github.com/shrija-27/MIST-4610-Project-1/assets/92402657/0b62f319-b255-4667-8196-070c5fd653b8">
 Explanation: Knowing the list of players who can perform as both strikers and defenders can have tactical, strategic, and managerial reasons. This list can be of interest to stakeholders, coaches and talent scouts to fans. 
 
 **TP_Q2**: Write a query that lists what fans have attended more than 50 matches. Order the number of matches attended from least to greatest.
