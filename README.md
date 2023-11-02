@@ -57,6 +57,8 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 <img width="615" alt="Screenshot 2023-11-02 at 12 41 30 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/e89f5ec2-612a-4463-b616-62c2da112c47">
 
+<img width="641" alt="Screenshot 2023-11-02 at 5 44 17 PM" src="https://github.com/shrija-27/MIST-4610-Project-1/assets/92402657/bbd056af-f8d9-49cf-be7b-3dd4ef7f6adf">
+
 # SQL Queries
 
 **TP_Q1**: Lists all the players whose position are strikers and defense
