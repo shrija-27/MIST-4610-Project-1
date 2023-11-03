@@ -86,17 +86,17 @@ Explanation: A club manager would want to know the specific details of all the c
 Explanation: Keeping track of sponsors is a key component of a club because they provide a significant amount of funding to keep the club running. Monitoring sponsors ensures that the manager is aware of the financial commitments and support provided by sponsors. Sponsors who contribute amounts greater than the average payment should be noted as higher level sponsors and recognized by the manager. 
 
 **TP_Q7**: List the different teams, their coaches who specialize in defense, and the players whose position is defense. 
-<img width="628" alt="Screenshot 2023-11-02 at 8 02 40 PM" src="https://github.com/shrija-27/MIST-4610-Project-1/assets/92402657/e0272791-836a-4124-bef4-dc289d9ed78d">
+<img width="1085" alt="Screenshot 2023-11-02 at 8 04 33 PM" src="https://github.com/shrija-27/MIST-4610-Project-1/assets/92402657/0fad4d27-0ffa-463f-9fea-64eebf12394e">
 Explanation: Defense is an important aspect of any sport. This query allows for managers and coaches to have accessible data for the players who play defense and the coaches that specialize in defense. Having this information can be useful when managers are looking at their roster assessing the makeup of each team.
 
 **TP_Q8**: 
 
 **TP_Q9**: Write a query to list out players for ____ (specific team) who make more than ____ (certain amount so we can use the having clause). Order the results in descending order.
-<img width="628" alt="Screenshot 2023-11-02 at 7 59 11 PM" src="https://github.com/shrija-27/MIST-4610-Project-1/assets/92402657/35bc113d-66d1-4b4a-8681-fe8c84b11dfc">
+<img width="1085" alt="Screenshot 2023-11-02 at 8 04 58 PM" src="https://github.com/shrija-27/MIST-4610-Project-1/assets/92402657/c785b237-cb4e-423f-ac0b-fc6da75ef484">
 Explanation: Salary is a huge component of teams, however teams only have so much money they can hand out. Therefore, this query allows managers to evaluate how their budget is being allocated. It’s important to note that managers can input any team name and any salary depending on their needs. We used the team “Lions” and the salary “$200,000” as an example.
 
 **TP_Q10**: Write a query to list out average price of tickets that are “Box Seats” (certain ticket type) where the match opponent was “Franecki-O’Reilly” (certain match opponent)
-<img width="631" alt="Screenshot 2023-11-02 at 8 01 48 PM" src="https://github.com/shrija-27/MIST-4610-Project-1/assets/92402657/806a45a4-a260-4f7e-9a20-96f1fe7437ad">
+<img width="1089" alt="Screenshot 2023-11-02 at 8 05 19 PM" src="https://github.com/shrija-27/MIST-4610-Project-1/assets/92402657/80ffdb84-7b7f-46fd-befb-de842faa6261">
 Explanation: This query allows the club executives and high level managers to see which type of seats are being sold out in accordance with which match opponents are playing in order to gain a better understanding of where people desire to watch their favorite teams play. This helps them not only to structure their stadium seats to gain more viewership profit, but also see how the pricing of tickets is being affected by which teams play. With this information, they can see which teams playing against each other elicit higher ticket prices, and create matchups for better profit.
 
 # Database information:
