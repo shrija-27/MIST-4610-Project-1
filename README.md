@@ -91,7 +91,7 @@ Explanation: Defense is an important aspect of any sport. This query allows for 
 
 **TP_Q8**: 
 
-**TP_Q9**: Write a query to list out players for ____ (specific team) who make more than ____ (certain amount so we can use the having clause). Order the results in descending order
+**TP_Q9**: Write a query to list out players for ____ (specific team) who make more than ____ (certain amount so we can use the having clause). Order the results in descending order.
 <img width="628" alt="Screenshot 2023-11-02 at 7 59 11 PM" src="https://github.com/shrija-27/MIST-4610-Project-1/assets/92402657/35bc113d-66d1-4b4a-8681-fe8c84b11dfc">
 Explanation: Salary is a huge component of teams, however teams only have so much money they can hand out. Therefore, this query allows managers to evaluate how their budget is being allocated. It’s important to note that managers can input any team name and any salary depending on their needs. We used the team “Lions” and the salary “$200,000” as an example.
 
